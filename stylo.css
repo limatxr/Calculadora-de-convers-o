@@ -31,7 +31,7 @@
     display: flex; 
     justify-content: center; 
     align-items: center; 
-    height: calc(100% - 40px); 
+    height: 75%; 
     padding: 20px; 
   }
   
@@ -67,3 +67,6 @@
     background-color: #000;
   }
   
+  article{
+    width: 40%;
+  }
